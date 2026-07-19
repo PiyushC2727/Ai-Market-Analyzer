@@ -1,0 +1,8 @@
+{
+  "name": "AI Stock Research & Trading Intelligence System",
+  "description": "An institutional-grade financial equity research, technical, and fundamental analysis system backed by Gemini AI with web search grounding and custom investing rule integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
